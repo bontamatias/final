@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment1.params=
+comment1.target=Tanks()
+comment2.params=
+comment2.target=java.awt.Dimension\ getPreferredSize()
+comment3.params=
+comment3.target=void\ main()
+comment4.params=e
+comment4.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment5.params=k
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+numComments=6
